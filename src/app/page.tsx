@@ -11,7 +11,7 @@ export default function Home() {
       Logged In !
       <Button className="ml-4" onClick={() => signOut()}>
         Sign Out
-      </Button>
+      </Button> 
     </div>
   )
 }
